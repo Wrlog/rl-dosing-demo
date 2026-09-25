@@ -1,0 +1,5 @@
+policy,break_even,n_patients,incorrect,"Reachable, stopped","Reachable, kept on drug, finished 200 to break-even","Reachable, kept on drug, finished above break-even","Unreachable, kept on drug, finished below break-even","Unreachable, kept on drug, finished above break-even"
+DQN,254.91212546385245,1500,165.66666666666666,28.333333333333332,108.66666666666667,17.333333333333332,3.6666666666666665,7.666666666666667
+MAP-Bayes,254.91212546385245,1500,43.0,23.0,11.0,0.0,9.0,0.0
+Oracle,254.91212546385245,1500,50.0,11.0,35.0,0.0,4.0,0.0
+Standard,254.91212546385245,1500,753.0,0.0,176.0,456.0,0.0,121.0

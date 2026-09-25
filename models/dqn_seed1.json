@@ -1,0 +1,32 @@
+{
+  "episodes": 16000,
+  "parallel": 32,
+  "gamma": 0.97,
+  "lr": 0.0005,
+  "lr_final": 5e-05,
+  "batch_size": 128,
+  "buffer_size": 50000,
+  "warmup_episodes": 800,
+  "updates_per_step": 12,
+  "target_sync": 400,
+  "eps_start": 1.0,
+  "eps_end": 0.03,
+  "eps_decay_frac": 0.6,
+  "hidden": [
+    128,
+    64
+  ],
+  "grad_clip": 5.0,
+  "eval_every": 400,
+  "seed": 1,
+  "best_eval_return": -0.7468357320750405,
+  "best_episode": 16000,
+  "train_seconds": 247.2374029159546,
+  "spec": {
+    "seed": 1
+  },
+  "eval_pct_reachable": 88.5,
+  "drug_cost": 0.05,
+  "ic50_typical": 10.0,
+  "cv_flare": 0.0
+}

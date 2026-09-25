@@ -1,0 +1,5 @@
+policy,pct_at_target,pct_correct,mean_return
+Ceiling (reachable),88.5,88.5,
+Standard,47.25,47.25,-2.5012503538631954
+MAP-Bayes,87.0,96.0,-0.7054006322983597
+Oracle,85.75,96.5,-0.5534077637816809
