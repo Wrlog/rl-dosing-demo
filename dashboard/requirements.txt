@@ -1,0 +1,4 @@
+# What the dashboard build needs (CI installs only these; no torch)
+numpy==2.5.3
+pandas==3.0.6
+plotly==7.1.0

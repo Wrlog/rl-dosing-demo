@@ -11,3 +11,5 @@ dist/
 models_quick/
 results_quick/
 figures_quick/
+# the dashboard, rebuilt by CI
+site/
